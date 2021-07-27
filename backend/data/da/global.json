@@ -1,7 +1,7 @@
 {
-  "globalFR": {
+  "globalDA": {
     "id": 2,
-    "locale": "fr",
+    "locale": "da",
     "metaTitleSuffix": "Strapi Corporate",
     "metadata": {
       "metaTitle": "Strapi starter for Corporate Sites",

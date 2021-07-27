@@ -202,8 +202,8 @@ async function importSeedData() {
 
 
   await strapi.query("locale", "i18n").create({
-    name: "French (fr)",
-    code: "fr",
+    name: "Danish (da)",
+    code: "da",
   });
 
   

@@ -1,9 +1,9 @@
 const { global, pages } = require("./en");
-const { globalFR, pagesFR } = require("./fr");
+const { globalDA, pagesDA } = require("./da");
 const { leadFormSubmissions } = require("./lead-form-submissions.json");
 
 module.exports = {
-  globals: [global, globalFR],
-  pages: [...pages, ...pagesFR],
+  globals: [global, globalDA],
+  pages: [...pages, ...pagesDA],
   leadFormSubmissions,
 };
